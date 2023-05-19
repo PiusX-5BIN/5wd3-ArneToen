@@ -1,0 +1,36 @@
+/* Navigation bar*/
+nav {
+    background: black;
+}
+
+* {
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+li {
+    background-color: black;
+    text-align: center;
+
+}
+
+nav ul li a {
+    color: white;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+/*artikels*/
+h1 {
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+
+}
